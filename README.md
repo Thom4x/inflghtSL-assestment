@@ -31,4 +31,4 @@ Para resolver estos desafíos, no busqué crear un simple "chatbot de preguntas 
 * **Mejoras a futuro (Next Steps):** 
   1. Construir el backend integrando extracción real mediante visión artificial (OCR + LLM) e implementar métricas para medir el porcentaje de campos correctos.
   2. Habilitar la recepción de facturas mediante correo electrónico corporativo o carpetas compartidas, no solo por chat.
-  3. Conectar la exportación de datos directamente al sistema contable (ERP) de la empresa.
+  3. Cubrir los edge-cases como precios, programas de fidelidad y establecer reglas de negocios para parametrizar el agente.
